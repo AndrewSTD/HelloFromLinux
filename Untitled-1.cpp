@@ -1,5 +1,5 @@
 //created in Ubuntu
-//writen in Windows
+//written in Windows
 #include <iostream>
 
 using namespace std;
